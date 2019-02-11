@@ -1,3 +1,4 @@
 ## Not a bored anymore!
+Bored Activity generator built using react, and Bored API.
 
-clone, run `npm start` and play around.
+For now, pull, run `npm start` and play around.
